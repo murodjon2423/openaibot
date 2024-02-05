@@ -1,0 +1,26 @@
+Openai neyron tarmog`i bilan bog`lanish uchun shaxsiy tokenimdan foydalanishingiz mumkin.
+Token vaqt o`tishi bilan o`z ahamiyatini yo`qotishi mumkin .
+Token ishlash rejimidan chiqsa yangi token orqali foydalaning.
+Yangi tokeni rasmiy saytdan yoki ushbu hovoladan olishingiz mumkin->
+ 
+ https://platform.openai.com/api-keys
+
+ "murodjon"->"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"
+
+You can use my private token to connect to the Openai neural network.
+The token may lose its value over time.
+Use a new token if the token exits the operating mode.
+You can get the new token from the official site or from this link->
+
+ https://platform.openai.com/api-keys
+
+  "murodjon"->"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"
+
+Вы можете использовать мой личный токен для подключения к нейронной сети Openai.
+Токен может со временем потерять свою ценность.
+Используйте новый токен, если токен выходит из рабочего режима.
+Получить новый токен можно на официальном сайте или по этой ссылке->
+
+ https://platform.openai.com/api-keys
+
+  "муродджон"->"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"
